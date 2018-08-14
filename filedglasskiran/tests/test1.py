@@ -1,0 +1,6 @@
+print("working print")
+fn=open('a.txt','a')
+fn.write("working print \n")
+fn.write("kiran print \n")
+fn.write("kumar \n")
+fn.close()
